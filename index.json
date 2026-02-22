@@ -1,0 +1,12 @@
+{
+  "bgm": [
+    {
+      "name": "Typical Things",
+      "path": "https://etamity.github.io/public-cdn/bgm/TypicalThings.mp3"
+    },
+    {
+      "name": "Miserere Canyungue",
+      "path": "https://etamity.github.io/public-cdn/bgm/Miserere_canyungue.mp3"
+    }
+  ]
+}
